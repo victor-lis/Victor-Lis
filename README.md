@@ -1,9 +1,9 @@
 <!-- <h1 align="center">👨‍💻 Victor Lis Bronzo</h1> -->
 
 <p align="center">
-  <img src="https://gitcards.api.victorlisbronzo.me/card/cmjhew7bb00032ajvo8q4vzpw" alt="Victor Lis Bronzo" />
+  <img src="https://gitcards.api.victorlisbronzo.me/card/cmjhew7bb00032ajvo8q4vzpw?v=1" alt="Victor Lis Bronzo" />
   <br>
-  <a href="https://github.com/Victor-Lis/Portfolio/blob/master/docs/CARD.md" target="_blank" style="opacity:0.7; font-size:12px;">
+  <a href="https://gitcards.victorlisbronzo.me/home" target="_blank" style="opacity:0.7; font-size:12px;">
     <img src="https://img.shields.io/badge/Faça%20seu%20próprio%20card%20aqui!-181717?style=flat&logo=github&logoColor=white" alt="GitHub Card Repo" />
   </a>
 </p>
