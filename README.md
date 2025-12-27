@@ -72,7 +72,7 @@ Busco constantemente aprofundar meus conhecimentos para criar aplicações otimi
 <table style="border: none;">
   <tr style="border: none;">
     <td style="border: none;">
-      <img width="220" src="https://gitcards.api.victorlisbronzo.me/card/cmjnl6ex800011vpau10okw39?v=xhaohu" alt="Top Languages" />
+      <img width="220" src="https://gitcards.api.victorlisbronzo.me/card/cmjnl6ex800011vpau10okw39?v=4vnzwe" alt="Tech Radar" />
     </td>
     <td style="border: none;">
       <img width="350" src="https://streak-stats.demolab.com/?user=Victor-Lis&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D1117&hide_border=true&ring=34df8b&fire=34df8b&currStreakLabel=34df8b" alt="GitHub Streak" />
