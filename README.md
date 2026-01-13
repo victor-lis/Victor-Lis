@@ -70,8 +70,8 @@ Busco constantemente aprofundar meus conhecimentos para criar aplicações otimi
 <div align="center">
 
   <div style="border: none; display: flex; flex-direction: column; align-items: center; gap: 10px;">
-    <img width="320" src="https://gitcards.api.victorlisbronzo.me/card/cmjnl6ex800011vpau10okw39?v=4vnzwe" alt="Tech Radar" />
-    <img width="350" src="https://streak-stats.demolab.com/?user=Victor-Lis&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D111700&hide_border=true&ring=34df8b&fire=34df8b&currStreakLabel=34df8b" alt="GitHub Streak" />
+    <img width="320" src="https://gitcards.victorlisbronzo.me/api/card/cmjhew7bb00032ajvo8q4vzpw?v=yaft8j" alt="Tech Radar" />
+    <!-- <img width="350" src="https://streak-stats.demolab.com/?user=Victor-Lis&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D111700&hide_border=true&ring=34df8b&fire=34df8b&currStreakLabel=34df8b" alt="GitHub Streak" /> -->
   </div>
 
   <img src="https://raw.githubusercontent.com/victor-lis/victor-lis/output/snake.svg" alt="Snake animation" style="max-width: 700px; margin: 20px 0;" />
